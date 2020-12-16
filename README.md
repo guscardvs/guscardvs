@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   - I'm currently learning:
     - TypeScript and Mobile Development with React Native.
     - Web Development with Golang.
-  - I'm currently working with [Resolva Club](https://www.resolvaclub.com) as Lead Developer and Software Engineer.
+  - I'm currently working with [Resolva Club](https://www.resolvaclub.com) as Lead BackEnd Developer and Software Engineer.
