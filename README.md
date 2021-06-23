@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   - I'm a:
-    - Python Developer, working with Django, FastAPI, PonyORM and MongoEngine.
+    - Python Developer, working with Django, FastAPI, and various databases.
     - JavaScript Web Developer, working with ReactJS
   - I'm currently learning:
     - TypeScript and Mobile Development with React Native.
