@@ -25,11 +25,14 @@ Here are some ideas to get you started:
   
 
   - I'm a:
-    - Python Developer, working with Django, FastAPI, and various databases.
-    - JavaScript Web Developer, working with ReactJS
+    - Python Developer, working with:
+      - FastAPI
+      - Django
+      - SQLAlchemy
+    - JavaScript Developer, working with:
+      - ReactJS
   - I'm currently learning:
-    - TypeScript and Mobile Development with React Native.
-    - Web Development with Golang.
+    - Go
+    - AdonisJS
   - I'm currently working with:
-    - [Resolva Club](https://www.resolvaclub.com) as Lead BackEnd Developer and Software Engineer.
-    - [BISO.digital](https://www.biso.digital) as Chief Technology Officer.
+    - [Serasa](https://serasa.com.br) as Backend Developer and Software Engineer.
