@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - JavaScript Developer, working with:
       - ReactJS
   - I'm currently learning:
-    - Go
-    - AdonisJS
+    - C
+    - Rust
   - I'm currently working with:
-    - [Serasa](https://serasa.com.br) as Backend Developer and Software Engineer.
+    - [Globant](https://globant.com) as Python Developer.
