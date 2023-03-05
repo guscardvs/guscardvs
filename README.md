@@ -20,8 +20,6 @@ Here are some ideas to get you started:
       - FastAPI
       - Django
       - SQLAlchemy
-    - JavaScript Developer, working with:
-      - ReactJS
   - I'm currently learning:
     - C
     - Rust
