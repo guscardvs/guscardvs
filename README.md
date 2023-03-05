@@ -21,7 +21,8 @@ Here are some ideas to get you started:
       - Django
       - SQLAlchemy
   - I'm currently learning:
-    - C
+    - C++
+    - Zig
     - Rust
   - I'm currently working with:
     - [Globant](https://globant.com) as Python Developer.
