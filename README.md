@@ -21,7 +21,6 @@ Here are some ideas to get you started:
       - Django
       - SQLAlchemy
   - I'm currently learning:
-    - C++
     - Zig
     - Rust
   - I'm currently working with:
