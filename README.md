@@ -1,27 +1,8 @@
 ### Hi there 👋, my name is Gustavo,
+I'm a Software Developer working with Python in web development
+and learning new cool technologies such as Rust and Zig.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guscardvs&theme=radical)](https://git.io/streak-stats)
 
-<!--
-**guscardvs/guscardvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=js,python,fastapi,django,linux,mysql,aws)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  - I'm a:
-    - Python Developer, working with:
-      - FastAPI
-      - Django
-      - SQLAlchemy
-  - I'm currently learning:
-    - Zig
-    - Rust
-  - I'm currently working with:
-    - [Globant](https://globant.com) as Python Developer.
+I'm currently working at [Globant](https://globant.com) as Python Developer.
