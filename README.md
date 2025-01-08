@@ -6,4 +6,4 @@ and learning new cool technologies such as Rust and Zig.
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,go,fastapi,django,linux,mysql,aws)](https://skillicons.dev)
 
-I'm currently working at [Globant](https://globant.com) as Python Developer.
+I'm currently working at [Duko](https://duko.com.br) as Backend Developer.
