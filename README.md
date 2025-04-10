@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=guscardvs&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+;I'm+Gustavo;I+am+a+Backend+Developer;I+work+at+Invillia+with+Python%2C+Javascript;and+I'm+learning+a+lot+of+Rust%2C+and+Go)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=550&lines=Hi+there%2C+;I'm+Gustavo;I+am+a+Backend+Developer;I+work+at+Invillia+with+Python%2C+Javascript;and+I'm+learning+a+lot+of+Rust%2C+Go+and+Zig)](https://git.io/typing-svg)
 
 *Email*: dev.guscardvs@proton.me
 
