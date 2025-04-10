@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=guscardvs&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239825b6&multiline=true&width=500&height=270&lines=Hi+there+%F0%9F%91%8B.;I'm+Vitor%2C;A++JavaScript+developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB.;-%2F%2F-;I'm+going+to+talk+a+little+bit+about+me%3A;%E2%80%A2I%E2%80%99m+currently+working+on+LeParse+RealTime%F0%9F%94%AD;%E2%80%A2I%E2%80%99m+currently+learning+Elixir+better%F0%9F%8C%B1;%E2%80%A2You+can+reach+me+sending+an+email%F0%9F%93%AB;%E2%80%A2Fun+fact%3A+I'm+always+starving%F0%9F%8D%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+;I'm+Gustavo;I+am+a+Backend+Developer;I+work+at+Invillia+with+Python%2C+Javascript;and+I'm+learning+a+lot+of+Rust%2C+Go+and+Zig)](https://git.io/typing-svg)
 
 *Email*: dev.guscardvs@proton.me
 
